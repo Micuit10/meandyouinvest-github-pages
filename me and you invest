@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Apprenez à gérer vos finances personnelles avec des conseils pratiques, des outils et des ressources utiles pour atteindre vos objectifs financiers.">
+    <title>Gestion des finances personnelles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Gestion des finances personnelles</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="budget.html">Créer un budget</a></li>
+                <li><a href="epargne.html">Épargner efficacement</a></li>
+                <li><a href="investissement.html">Investir intelligemment</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="intro">
+            <h2>Bienvenue sur notre site !</h2>
+            <p>Apprenez à maîtriser vos finances personnelles avec des conseils simples et efficaces. Que vous souhaitiez épargner pour un projet, rembourser vos dettes ou investir pour l'avenir, nous avons des ressources pour vous accompagner.</p>
+        </section>
+
+        <section id="services">
+            <h2>Nos catégories principales</h2>
+            <div class="category">
+                <h3><a href="budget.html">Créer un budget</a></h3>
+                <p>Découvrez comment établir un budget réaliste et le respecter.</p>
+            </div>
+            <div class="category">
+                <h3><a href="epargne.html">Épargner efficacement</a></h3>
+                <p>Apprenez des stratégies pour épargner plus rapidement et atteindre vos objectifs.</p>
+            </div>
+            <div class="category">
+                <h3><a href="investissement.html">Investir intelligemment</a></h3>
+                <p>Comprenez les bases de l'investissement pour faire fructifier votre argent.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Gestion des finances personnelles. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
+<!-- Page : Créer un budget -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Créer un budget - Gestion des finances personnelles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Créer un budget</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="budget.html">Créer un budget</a></li>
+                <li><a href="epargne.html">Épargner efficacement</a></li>
+                <li><a href="investissement.html">Investir intelligemment</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Pourquoi créer un budget ?</h2>
+            <p>Un budget est un outil essentiel pour garder le contrôle de vos finances. Il vous aide à suivre vos revenus et vos dépenses, et à planifier vos objectifs financiers.</p>
+        </section>
+
+        <section>
+            <h2>Étapes pour créer un budget</h2>
+            <ol>
+                <li>Identifiez vos sources de revenus.</li>
+                <li>Listez toutes vos dépenses fixes et variables.</li>
+                <li>Fixez des limites pour chaque catégorie de dépense.</li>
+                <li>Suivez régulièrement votre budget pour ajuster si nécessaire.</li>
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Gestion des finances personnelles. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
+<!-- Page : Épargner efficacement -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Épargner efficacement - Gestion des finances personnelles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Épargner efficacement</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="budget.html">Créer un budget</a></li>
+                <li><a href="epargne.html">Épargner efficacement</a></li>
+                <li><a href="investissement.html">Investir intelligemment</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Pourquoi épargner ?</h2>
+            <p>L'épargne vous permet de réaliser vos projets, d'avoir un fonds d'urgence et de sécuriser votre avenir financier.</p>
+        </section>
+
+        <section>
+            <h2>Conseils pour épargner efficacement</h2>
+            <ul>
+                <li>Fixez des objectifs clairs et réalistes.</li>
+                <li>Automatisez vos économies pour ne pas y penser.</li>
+                <li>Réduisez les dépenses inutiles.</li>
+                <li>Suivez vos progrès régulièrement.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Gestion des finances personnelles. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
+
+<!-- Page : Investir intelligemment -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investir intelligemment - Gestion des finances personnelles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Investir intelligemment</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="budget.html">Créer un budget</a></li>
+                <li><a href="epargne.html">Épargner efficacement</a></li>
+                <li><a href="investissement.html">Investir intelligemment</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Pourquoi investir ?</h2>
+            <p>Investir est un moyen de faire fructifier votre argent sur le long terme et d'atteindre vos objectifs financiers.</p>
+        </section>
+
+        <section>
+            <h2>Conseils pour bien investir</h2>
+            <ul>
+                <li>Apprenez les bases des différents types d'investissements.</li>
+                <li>Diversifiez vos investissements pour minimiser les risques.</li>
+                <li>Définissez votre tolérance au risque avant d'investir.</li>
+                <li>Suivez l'évolution de vos investissements régulièrement.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Gestion des finances personnelles. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
